@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "countryname": "India",
+    "capital": "New Delhi",
+    "population": "≈ 1,430,000,000 (approx.)",
+    "interestingfact": "India is the world’s largest democracy and home to the Taj Mahal."
+  },
+  {
+    "id": 2,
+    "countryname": "United States",
+    "capital": "Washington, D.C.",
+    "population": "≈ 340,000,000 (approx.)",
+    "interestingfact": "The U.S. has the world’s largest economy and is known for Silicon Valley innovation."
+  },
+  {
+    "id": 3,
+    "countryname": "China",
+    "capital": "Beijing",
+    "population": "≈ 1,410,000,000 (approx.)",
+    "interestingfact": "China is home to the Great Wall, one of the Seven Wonders of the World."
+  },
+  {
+    "id": 4,
+    "countryname": "Brazil",
+    "capital": "Brasília",
+    "population": "≈ 215,000,000 (approx.)",
+    "interestingfact": "Brazil hosts the Amazon Rainforest, the largest tropical rainforest in the world."
+  },
+  {
+    "id": 5,
+    "countryname": "Russia",
+    "capital": "Moscow",
+    "population": "≈ 145,000,000 (approx.)",
+    "interestingfact": "Russia is the largest country in the world by land area."
+  },
+  {
+    "id": 6,
+    "countryname": "Japan",
+    "capital": "Tokyo",
+    "population": "≈ 124,000,000 (approx.)",
+    "interestingfact": "Japan is famous for its cherry blossoms and advanced technology."
+  },
+  {
+    "id": 7,
+    "countryname": "Germany",
+    "capital": "Berlin",
+    "population": "≈ 84,000,000 (approx.)",
+    "interestingfact": "Germany is known for its engineering excellence and Oktoberfest festival."
+  },
+  {
+    "id": 8,
+    "countryname": "United Kingdom",
+    "capital": "London",
+    "population": "≈ 68,000,000 (approx.)",
+    "interestingfact": "The UK is home to the iconic Big Ben and the British monarchy."
+  },
+  {
+    "id": 9,
+    "countryname": "France",
+    "capital": "Paris",
+    "population": "≈ 65,000,000 (approx.)",
+    "interestingfact": "France is the most visited country in the world, with Paris known as the ‘City of Light’."
+  },
+  {
+    "id": 10,
+    "countryname": "Australia",
+    "capital": "Canberra",
+    "population": "≈ 27,000,000 (approx.)",
+    "interestingfact": "Australia is famous for the Great Barrier Reef and unique wildlife like kangaroos."
+  },
+  {
+    "id": 11,
+    "countryname": "Canada",
+    "capital": "Ottawa",
+    "population": "≈ 40,000,000 (approx.)",
+    "interestingfact": "Canada has the longest coastline in the world."
+  },
+  {
+    "id": 12,
+    "countryname": "South Africa",
+    "capital": "Pretoria (administrative)",
+    "population": "≈ 62,000,000 (approx.)",
+    "interestingfact": "South Africa is known as the ‘Rainbow Nation’ for its cultural diversity."
+  }
+]

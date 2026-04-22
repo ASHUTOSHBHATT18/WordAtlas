@@ -1,0 +1,26 @@
+[
+    {
+      "id":"1",
+      "icon": "📞",
+      "title": "Contact Us",
+      "details": "Phone: +91-1234567890, Email: support@example.com"
+    },
+    {
+      "id":"2",
+      "icon": "📍",
+      "title": "Address",
+      "details": "123, Civil Lines, Allahabad, Uttar Pradesh, India"
+    },
+    {
+      "id":"3",
+      "icon": "🌐",
+      "title": "Follow Us",
+      "details": "Facebook, Twitter, Instagram"
+    },
+    {
+      "id":"4",
+      "icon": "©",
+      "title": "Copyright",
+      "details": "© 2026 Example Company. All rights reserved."
+    }
+]
